@@ -1,3 +1,3 @@
 # Extractor
 
-Monads. Monads everywhere!
+About monads
